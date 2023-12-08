@@ -1,0 +1,41 @@
+.questionDiv{
+    border:8px solid silver;
+    border-radius: 25px;
+    text-align: center;
+    margin: 5% 20% 0% 20%;
+    padding: 5%;
+    background-color: rgb(115, 115, 247);
+    color: silver;
+    font-family: fantasy;
+    font-size: 2vh;
+}
+button{
+    height:  100px;
+    width: 400px;
+    background-color: rgb(209, 216, 244);
+    border: 4px solid rgb(233, 231, 231);
+}
+.but1{
+      margin: 200px 400px 0px 220px;
+}
+.but3{
+      margin: 200px 400px 0px 220px;
+}
+.next{
+    margin: 10% 30% 0% 35%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+button{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+  background-color: rgb(199, 199, 199);
+}
+p{
+    text-align: center;
+}
+.grade{
+    font-size: 30px;
+    margin: 80px 0px 0px 0px
+}
